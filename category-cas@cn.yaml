@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-cas
+
+# Behavior: domain
+
+payload:
+- "+.digicert.cn"
+- "+.sslcom.cn"
+- "+.trust-provider.cn"
+- "certs-lb.apple.com.akadns.net"
+- "certs.apple.com"
+- "crl-lb.apple.com.akadns.net"
+- "crl.apple.com"
+- "crl.pki.goog"
+- "crl2.alphassl.com"
+- "ocsp-lb.apple.com.akadns.net"
+- "ocsp.apple.com"
+- "ocsp.globalsign.com"
+- "ocsp.pki.goog"
+- "ocsp2.globalsign.com"
+- "secure.globalsign.com"
+- "secure2.alphassl.com"
+- "www.microsoft.com"

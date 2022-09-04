@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/erolabs
+
+# Behavior: domain
+
+payload:
+- "+.ero-labs.com"
+- "+.ero-labs.net"
+- "+.erolabs.cloud"
+- "+.erolabs.com"
+- "+.erolabs.game"
+- "+.erolabs.net"
