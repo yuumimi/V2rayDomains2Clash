@@ -27,7 +27,10 @@ jobs:
           go-version: ^1.18
 
       - name: Generate
-        run: go run main.go domain-list-community generated
+        run: |
+          cat ./domain-list-community/data/* | grep '@cn' > ./domain-list-community/data/-cn
+          cat ./domain-list-community/data/* | grep '@\!cn' > ./domain-list-community/data/-\!cn
+          go run main.go domain-list-community generated
 
       - name: Get Commit Message
         id: message
